@@ -1,0 +1,8 @@
+family=Bai+Jamjuree
+
+#26baa4; jungle green
+#6173ff; cornflower blue
+#4c545d; trout grey
+#9fabb2; hit gray
+#f5f5f5; wild sand white
+#7a7a7a; boulder grey
